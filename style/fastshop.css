@@ -1,0 +1,52 @@
+main {
+  max-width: 970px;
+  margin: auto;
+}
+main > h1 {
+  font-size: 50px;
+  text-align: center;
+}
+.main_menu {
+  
+}
+.main_menu > ul {
+/*  margin: 0;*/
+  margin-left: 15%;
+  margin-right: 15%;
+  padding: 0;
+}
+.main_menu li {
+  float: left;
+  padding-right: 40px;
+  list-style: none;
+}
+.carousel img {
+  width: 100%;
+}
+.weekly_most {
+  text-align: center;
+  margin-top: 30px;
+}
+.weekly_most > h2 {
+  font-size: 25px;
+}
+.weekly_most > ul {
+  margin: 0;
+  margin-top: 10px;
+  padding: 0;
+}
+.weekly_most li {
+  float: left;
+  list-style: none;
+}
+.weekly_most li img {
+  max-width: 300px;
+}
+.new_arrivals {
+  margin: 30px;
+  text-align: center;
+}
+.new_arrivals > h2 {
+  font-size: 25px;
+  
+}
