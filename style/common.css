@@ -3,3 +3,8 @@
   display: block;
   clear: both;
 }
+
+[href] {
+  text-decoration: none;
+  color: inherit;
+}

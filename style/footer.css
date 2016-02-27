@@ -4,26 +4,25 @@ footer {
 }
 .footer_area {
   margin-bottom: 50px;
+/*  max-width: 970px;*/
+/*  margin: 50px;*/
 }
 #footer_logo {
   padding-right: 50px;
 }
 #footer_logo img {
-  
   width: 176px;
 }
 .footer_item {
   float: left;
   margin-right: 40px;
   color: white;
+  line-height: 150%;
 }
-.footer_item h4 {
+.footer_item > h4 {
   color: gray;
 }
-.footer_item [href] {
-  color: inherit;
-}
-.footer_item ul {
+.footer_item > ul {
   margin: 0;
   margin-top: 10px;
   padding: 0;
@@ -36,7 +35,6 @@ footer {
 #footer_stay {
   float: right;
 }
-
 footer address {
   text-align: center;
   color: gray;
