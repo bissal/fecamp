@@ -8,3 +8,7 @@
   text-decoration: none;
   color: inherit;
 }
+
+body {
+  font-family: "San Francisco", "helvetica NEUE", "APPLE SD Gothic NEO", "Dotum", "돋움", sans-serif;
+}
